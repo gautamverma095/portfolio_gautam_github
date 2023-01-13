@@ -21,7 +21,7 @@ export const About = () => {
         <Type />
         <p className="about__desc" data-aos="fade-right">
         An inquisitive and highly motivated full stack web
-  developer with specialisation in MERN stack. Have
+  developer with specialization in MERN stack. Have
 relevant hands-on experience in building multiple
 websites from scratch. Seeking to pursue a career
 in a challenging environment to hone industry skill.
