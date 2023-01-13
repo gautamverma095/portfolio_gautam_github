@@ -1,6 +1,7 @@
 .about {
   flex-direction: column;
-  margin-top: 3em;
+  margin-top: 10em;
+
 }
 .about__name {
   color: var(--clr-primary);
