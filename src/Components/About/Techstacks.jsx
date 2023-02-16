@@ -39,6 +39,7 @@ export const Techstacks = () => {
           <div>
             <SiNextdotjs />
             <h5>NextJs</h5>
+            
           </div>
           <div>
             <FaNodeJs />
@@ -51,7 +52,7 @@ export const Techstacks = () => {
           <div>
             <SiRedux />
             <h5>Redux</h5>
-            
+
           </div>
           <div>
             <SiExpress />
