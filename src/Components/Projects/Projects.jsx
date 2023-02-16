@@ -184,7 +184,7 @@ export const Projects = () => {
                It is a daily task app with a limit of 5 tasks per day, user can add 5 task in a day, on next day he can also add 5 task. In this I have used nextjs, it is a full stack app with frontend and backend deployed
               </p>
               <div>
-              <SiNextdotjs/>
+                <SiNextdotjs />
                 <DiCss3 />
                 <SiHtml5 />
                 <SiJavascript />
