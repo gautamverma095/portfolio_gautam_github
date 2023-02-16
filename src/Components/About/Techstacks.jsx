@@ -57,7 +57,6 @@ export const Techstacks = () => {
             <SiExpress />
             <h5>Express</h5>
           </div>
-          
           <div>
             <SiMaterialui />
             <h5>Material Ui</h5>
