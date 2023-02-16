@@ -39,7 +39,6 @@ export const Techstacks = () => {
           <div>
             <SiNextdotjs />
             <h5>NextJs</h5>
-            
           </div>
           <div>
             <FaNodeJs />
