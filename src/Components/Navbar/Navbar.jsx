@@ -17,6 +17,7 @@ export const Navbar = () => {
     }
     setShowNavList(!showNavList);
   };
+  
   return (
     <>
       <nav className="center nav">
