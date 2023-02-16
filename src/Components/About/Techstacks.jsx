@@ -40,6 +40,7 @@ export const Techstacks = () => {
             <SiNextdotjs />
             <h5>NextJs</h5>
           </div>
+
           <div>
             <FaNodeJs />
             <h5>Nodejs</h5>
