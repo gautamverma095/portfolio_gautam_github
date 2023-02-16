@@ -1,6 +1,7 @@
 import React from "react";
 import "./Projects.css";
 import { FaReact, FaNodeJs, Facss } from "react-icons/fa";
+import task from "./task.png"
 import {
   SiBlockchaindotcom,
   SiHtml5,
@@ -13,9 +14,10 @@ import {
   SiTailwindcss,
   SiReactrouter,
   SiJavascript,
+  SiNextdotjs
  
 } from "react-icons/si";
-import { DiCss3, DiMongodb } from "react-icons/di";
+import { DiCss3, DiMongodb, } from "react-icons/di";
 import { VscJson } from "react-icons/vsc";
 import { IoLogoJavascript } from "react-icons/io";
 export const Projects = () => {
@@ -166,6 +168,54 @@ export const Projects = () => {
           </div>
         </div>
 
+         <div className="projects_container">
+          <div className="project">
+            <div className="project_videocontainer">
+              <div data-aos="fade-right">
+                <img
+                  src={task}
+                  alt=""
+                />
+              </div>
+            </div>
+            <div className="project_information" data-aos="fade-right">
+              <h2>Daily Task App</h2>
+              <p>
+               It is a daily task app with a limit of 5 tasks per day, user can add 5 task in a day, on next day he can also add 5 task. In this I have used nextjs, it is a full stack app with frontend and backend deployed
+              </p>
+              <div>
+              <SiNextdotjs/>
+                <DiCss3 />
+                <SiHtml5 />
+                <SiJavascript />
+                <FaNodeJs />
+                <DiMongodb />
+                <SiExpress/>
+              
+              </div>
+              <div>
+                <a
+                  href="https://frontend-delta-eight-14.vercel.app/"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <span type="button" className="btn btn--outline onbt">
+                    See this Live
+                  </span>
+                </a>
+                <a
+                  href="https://github.com/gautamverma095/DailyTaskApp"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <span type="button" className="btn btn--outline">
+                    View Code
+                  </span>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
 
 
       </div>
