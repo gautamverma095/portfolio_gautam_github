@@ -6,7 +6,8 @@ import {
   SiHtml5,
   SiMaterialui,
   SiExpress,
-  SiRedis
+  SiRedis,
+  SiNextdotjs
 } from "react-icons/si";
 import { DiCss3, DiMongodb } from "react-icons/di";
 import { SiJavascript } from "react-icons/si";
@@ -36,6 +37,10 @@ export const Techstacks = () => {
             <h5>React</h5>
           </div>
           <div>
+            <SiNextdotjs />
+            <h5>NextJs</h5>
+          </div>
+          <div>
             <FaNodeJs />
             <h5>Nodejs</h5>
           </div>
@@ -51,10 +56,7 @@ export const Techstacks = () => {
             <SiExpress />
             <h5>Express</h5>
           </div>
-          <div>
-            <SiRedis />
-            <h5>Redis</h5>
-          </div>
+          
           <div>
             <SiMaterialui />
             <h5>Material Ui</h5>
