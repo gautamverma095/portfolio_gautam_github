@@ -31,8 +31,9 @@ export const Timeline = () => {
           My <span className="different">Timeline 💫</span>
         </h2>
         <VerticalTimeline lineColor={linecolor}>
-        <VerticalTimelineElement
-        date={"March 2022 - Present"}
+          
+           <VerticalTimelineElement
+        date={"March 2023 - Present"}
         contentStyle={{
           boxShadow: `var(--shadow)`,
           backgroundColor: `var(--clr-bg)`,
@@ -50,7 +51,40 @@ export const Timeline = () => {
           className="vertical-timeline-element-title"
           data-aos="fade-right"
         >
-          Instructional Associate
+          Software Developer
+        </h3>
+        <h4
+          className="vertical-timeline-element-subtitle"
+          data-aos="fade-right"
+        >
+          Cognitive clouds
+        </h4>
+            <p data-aos="fade-right">
+        Working on live projects on web with react and in mobile applications with React native
+        </p>
+      </VerticalTimelineElement>
+          
+          
+        <VerticalTimelineElement
+        date={"April 2022 - January 2023"}
+        contentStyle={{
+          boxShadow: `var(--shadow)`,
+          backgroundColor: `var(--clr-bg)`,
+          textAlign: "center",
+          color: `var(--clr-fg-alt)`
+        }}
+        contentArrowStyle={{ borderRight: "16px solid  rgb(33, 150, 243)" }}
+        iconStyle={{
+          backgroundColor: `var(--clr-bg)`,
+          color: `var(--clr-primary)`
+        }}
+        icon={<WorkIcon />}
+      >
+        <h3
+          className="vertical-timeline-element-title"
+          data-aos="fade-right"
+        >
+          Software Developer/Instructional Associate
         </h3>
         <h4
           className="vertical-timeline-element-subtitle"
@@ -58,45 +92,42 @@ export const Timeline = () => {
         >
           Masai School
         </h4>
-        <p data-aos="fade-right">
-          Mentoring and clearing student's conceptual doubts via
-          standups,reviewing student's projects, reporting to the
-          instructor. Helping students to start their career in Tech.
+            <p data-aos="fade-right">
+         Worked on live projects like building dashboards and implementing Functionalities. Experience in mentoring students in DSA and MERN.
         </p>
       </VerticalTimelineElement>
           
-          <VerticalTimelineElement
-            date={"Oct 2021 - April 2022"}
-            contentStyle={{
-              boxShadow: `var(--shadow)`,
-              backgroundColor: `var(--clr-bg)`,
-              textAlign: "center",
-              color: `var(--clr-fg-alt)`
-            }}
-            contentArrowStyle={{ borderRight: "16px solid  rgb(33, 150, 243)" }}
-            iconStyle={{
-              backgroundColor: `var(--clr-bg)`,
-              color: `var(--clr-primary)`
-            }}
-            icon={<SchoolIcon />}
-          >
-            <h3
-              className="vertical-timeline-element-title"
-              data-aos="fade-right"
-            >
-              Student
-            </h3>
-            <h4
-              className="vertical-timeline-element-subtitle"
-              data-aos="fade-right"
-            >
-              Masai School (Remote)
-            </h4>
+           <VerticalTimelineElement
+        date={"February 2021 - March 2022"}
+        contentStyle={{
+          boxShadow: `var(--shadow)`,
+          backgroundColor: `var(--clr-bg)`,
+          textAlign: "center",
+          color: `var(--clr-fg-alt)`
+        }}
+        contentArrowStyle={{ borderRight: "16px solid  rgb(33, 150, 243)" }}
+        iconStyle={{
+          backgroundColor: `var(--clr-bg)`,
+          color: `var(--clr-primary)`
+        }}
+        icon={<WorkIcon />}
+      >
+        <h3
+          className="vertical-timeline-element-title"
+          data-aos="fade-right"
+        >
+          Frontend Developer
+        </h3>
+        <h4
+          className="vertical-timeline-element-subtitle"
+          data-aos="fade-right"
+        >
+          Tutort academy
+        </h4>
             <p data-aos="fade-right">
-              Joined MERN Stack Developer Bootcamp to learn Software Development
-              and Data Structures
-            </p>
-          </VerticalTimelineElement>
+         Developed front-end web pages with React. Implemented new features as per the requirement.
+        </p>
+      </VerticalTimelineElement>
           <VerticalTimelineElement
             date={"Sep 2017 - June 2020"}
             contentStyle={{
