@@ -1,24 +1,14 @@
 {
   "files": {
-    "main.css": "/portfolio_gautam_github/static/css/main.c4ab22fd.chunk.css",
-    "main.js": "/portfolio_gautam_github/static/js/main.24f26780.chunk.js",
-    "main.js.map": "/portfolio_gautam_github/static/js/main.24f26780.chunk.js.map",
-    "runtime-main.js": "/portfolio_gautam_github/static/js/runtime-main.125dd63e.js",
-    "runtime-main.js.map": "/portfolio_gautam_github/static/js/runtime-main.125dd63e.js.map",
-    "static/css/2.95d02a1e.chunk.css": "/portfolio_gautam_github/static/css/2.95d02a1e.chunk.css",
-    "static/js/2.1d3565d3.chunk.js": "/portfolio_gautam_github/static/js/2.1d3565d3.chunk.js",
-    "static/js/2.1d3565d3.chunk.js.map": "/portfolio_gautam_github/static/js/2.1d3565d3.chunk.js.map",
+    "main.css": "/portfolio_gautam_github/static/css/main.ebbc15df.css",
+    "main.js": "/portfolio_gautam_github/static/js/main.bb4f0472.js",
+    "static/media/task.png": "/portfolio_gautam_github/static/media/task.25e6d3452c6bfbf7591c.png",
     "index.html": "/portfolio_gautam_github/index.html",
-    "static/css/2.95d02a1e.chunk.css.map": "/portfolio_gautam_github/static/css/2.95d02a1e.chunk.css.map",
-    "static/css/main.c4ab22fd.chunk.css.map": "/portfolio_gautam_github/static/css/main.c4ab22fd.chunk.css.map",
-    "static/js/2.1d3565d3.chunk.js.LICENSE.txt": "/portfolio_gautam_github/static/js/2.1d3565d3.chunk.js.LICENSE.txt",
-    "static/media/task.25e6d345.png": "/portfolio_gautam_github/static/media/task.25e6d345.png"
+    "main.ebbc15df.css.map": "/portfolio_gautam_github/static/css/main.ebbc15df.css.map",
+    "main.bb4f0472.js.map": "/portfolio_gautam_github/static/js/main.bb4f0472.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.125dd63e.js",
-    "static/css/2.95d02a1e.chunk.css",
-    "static/js/2.1d3565d3.chunk.js",
-    "static/css/main.c4ab22fd.chunk.css",
-    "static/js/main.24f26780.chunk.js"
+    "static/css/main.ebbc15df.css",
+    "static/js/main.bb4f0472.js"
   ]
 }
