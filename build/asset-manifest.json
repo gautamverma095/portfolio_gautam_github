@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portfolio_gautam_github/static/css/main.ebbc15df.css",
-    "main.js": "/portfolio_gautam_github/static/js/main.152526b3.js",
+    "main.js": "/portfolio_gautam_github/static/js/main.bb4f0472.js",
     "static/media/task.png": "/portfolio_gautam_github/static/media/task.25e6d3452c6bfbf7591c.png",
     "index.html": "/portfolio_gautam_github/index.html",
     "main.ebbc15df.css.map": "/portfolio_gautam_github/static/css/main.ebbc15df.css.map",
-    "main.152526b3.js.map": "/portfolio_gautam_github/static/js/main.152526b3.js.map"
+    "main.bb4f0472.js.map": "/portfolio_gautam_github/static/js/main.bb4f0472.js.map"
   },
   "entrypoints": [
     "static/css/main.ebbc15df.css",
-    "static/js/main.152526b3.js"
+    "static/js/main.bb4f0472.js"
   ]
 }
