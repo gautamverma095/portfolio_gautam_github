@@ -84,7 +84,7 @@ export const Timeline = () => {
           className="vertical-timeline-element-title"
           data-aos="fade-right"
         >
-          Software Developer/Instructional Associate
+          Software Developer
         </h3>
         <h4
           className="vertical-timeline-element-subtitle"
@@ -93,41 +93,11 @@ export const Timeline = () => {
           Masai School
         </h4>
             <p data-aos="fade-right">
-         Worked on live projects like building dashboards and implementing Functionalities. Experience in mentoring students in DSA and MERN.
+         Worked on live projects like building dashboards and implementing Functionalities.
         </p>
       </VerticalTimelineElement>
           
-           <VerticalTimelineElement
-        date={"February 2021 - March 2022"}
-        contentStyle={{
-          boxShadow: `var(--shadow)`,
-          backgroundColor: `var(--clr-bg)`,
-          textAlign: "center",
-          color: `var(--clr-fg-alt)`
-        }}
-        contentArrowStyle={{ borderRight: "16px solid  rgb(33, 150, 243)" }}
-        iconStyle={{
-          backgroundColor: `var(--clr-bg)`,
-          color: `var(--clr-primary)`
-        }}
-        icon={<WorkIcon />}
-      >
-        <h3
-          className="vertical-timeline-element-title"
-          data-aos="fade-right"
-        >
-          Frontend Developer
-        </h3>
-        <h4
-          className="vertical-timeline-element-subtitle"
-          data-aos="fade-right"
-        >
-          Tutort academy
-        </h4>
-            <p data-aos="fade-right">
-         Developed front-end web pages with React. Implemented new features as per the requirement.
-        </p>
-      </VerticalTimelineElement>
+   
           <VerticalTimelineElement
             date={"Sep 2017 - June 2020"}
             contentStyle={{
